@@ -1,1 +1,1 @@
-## Calculadora de interes compuesto ;)
+## Calculadora de interes compuesto using React and styled components 
