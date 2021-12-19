@@ -1,1 +1,1 @@
-## Calculadora de interes compuesto using React and styled components 
+## compound interest calculator using React and styled components 
